@@ -19,7 +19,7 @@ async def docs_redirect():
     return RedirectResponse(url='/docs')
 
 @app.post('/')
-def register(request:AttindanceBase,db:Session = Depends(get_db)):
+def set_attendance(request:AttindanceBase,db:Session = Depends(get_db)):
     return reg_attendance(db,request)
 
 @app.get('/all')
