@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd941161-795e-4218-8f6f-5a3427e98104" name="Changes" comment="Profile settings">
+    <list default="true" id="fd941161-795e-4218-8f6f-5a3427e98104" name="Changes" comment="Proc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649772117666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="S2">
+      <created>1649772519138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772519138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proc">
+      <created>1649772592472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772592472</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Profile settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Profile settings" />
+    <MESSAGE value="S2" />
+    <MESSAGE value="Proc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proc" />
   </component>
 </project>

@@ -9,7 +9,9 @@ from db_attendance import reg_attendance
 from schemas import AttindanceBase
 from deta import Deta
 
-app = FastAPI()
+app = FastAPI(
+tags=['Raspberry pi Group']
+)
 
 
 @app.get("/")
