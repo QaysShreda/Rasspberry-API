@@ -10,6 +10,7 @@ from schemas import AttindanceBase
 from deta import Deta
 
 app = FastAPI(
+title="Raspberry Pi Group",
 tags=['Raspberry pi Group']
 )
 
